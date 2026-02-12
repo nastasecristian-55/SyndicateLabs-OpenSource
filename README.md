@@ -1,10 +1,10 @@
-# 🧪 SyndicateLabs v1.0
+# SyndicateLabs v1.0
 
 **Lightweight Cheminformatics for the Modern Lab.** *Developed by Cristian Năstase*
 
 ---
 
-## 🔬 What is it?
+## What is it?
 SyndicateLabs is a tool I built to bridge the gap between flat 2D chemical strings and 3D molecular reality. 
 It targets students and researchers who need a quick, no-fuss way to validate drug-likeness and visualize pharmacophores without opening heavy, expensive software.
 
@@ -16,7 +16,7 @@ It targets students and researchers who need a quick, no-fuss way to validate dr
 
 ---
 
-## 📥 Getting Started
+## Getting Started
 
 ### 1. Standalone Apps (Easiest)
 Grab the pre-built binaries from the **[Releases](../../releases)** tab. 
@@ -37,14 +37,14 @@ pip install -r requirements.txt
 # Launch
 python app_main.py
 ```
-🛠 Tech Stack
+## Tech Stack
 GUI: CustomTkinter (Dark Mode by default) 
 
 Brain: RDKit & Py3Dmol 
 
 Environment: Developed on macOS for cross-platform utility. 
 
-📄 License & Credits
+## License & Credits
 License: MIT - Use it, fork it, learn from it. 
 
 Context: Originally created as a final project for Didactica Domeniului at the University of Bucharest. 
