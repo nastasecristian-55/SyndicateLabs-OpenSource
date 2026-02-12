@@ -27,12 +27,15 @@ If you want to modify the code or see how it works:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SyndicateLabs.git](https://github.com/YOUR_USERNAME/SyndicateLabs.git)
    cd SyndicateLabs
-Install dependencies:
-Bash
-pip install -r requirements.txt
-Run the application:
-Bash
+   ```
+2. **Install dependencies:**
+  ```bash
+    pip install -r requirements.txt
+```
+3. **Run the application:**
+  ```bash
 python app_main.py
+```
 
 Built With
 Python 3 - Core Logic
