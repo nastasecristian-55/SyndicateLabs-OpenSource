@@ -4,8 +4,10 @@
 
 
 **What is it**
+
 SyndicateLabs is a tool I built to bridge the gap between flat 2D chemical strings and 3D molecular reality. 
 It targets students and researchers who need a quick, no-fuss way to validate drug-likeness and visualize pharmacophores without opening heavy, expensive software.
+
 
 **Core Specs:**
 * **Lipinski & Veber Screening:** Fast calculation of MW, LogP, HBA, HBD, and TPSA.
