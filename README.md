@@ -2,7 +2,6 @@
 
 **Lightweight Cheminformatics for the Modern Lab.** *Developed by Cristian Năstase*
 
----
 
 ## What is it?
 SyndicateLabs is a tool I built to bridge the gap between flat 2D chemical strings and 3D molecular reality. 
@@ -14,7 +13,6 @@ It targets students and researchers who need a quick, no-fuss way to validate dr
 * **Smart Mapping:** Visual cues for Aromatic Rings (Blue), H-Donors (Magenta), and H-Acceptors (Cyan).
 * **Stability:** Custom RDKit embedding logic to prevent conformer crashes.
 
----
 
 ## Getting Started
 
