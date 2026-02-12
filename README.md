@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Stable-green)
+![Field](https://img.shields.io/badge/Field-Computational%20Chemistry-blue)
+![Education](https://img.shields.io/badge/Purpose-Educational-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey)
+
 # SyndicateLabs v1.0
 
 **Lightweight Cheminformatics for the Modern Lab.** *Developed by Cristian Năstase*
