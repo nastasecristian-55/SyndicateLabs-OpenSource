@@ -35,7 +35,7 @@ If you want to poke at the code, you'll need Python 3 and a few libraries:
 ```bash
 # Clone the repo
 git clone [https://github.com/nastasecristian-55/SyndicateLabs-OpenSource.git](https://github.com/nastasecristian-55/SyndicateLabs-OpenSource.git)
-cd SyndicateLabs
+cd SyndicateLabs-OpenSource
 
 # Install the science
 pip install -r requirements.txt
